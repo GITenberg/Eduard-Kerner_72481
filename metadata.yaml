@@ -1,0 +1,38 @@
+_repo: Eduard-Kerner_72481
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Midderigh-Bokhorst, B. (Berhardina)
+    aliases:
+    - Midderigh-Bokhorst, Berhardina
+    - Midderigh-Bokhorst, Johanna Berhardina
+    - Midderigh-Bokhorst, J. B.
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '25406'
+    url: http://www.gutenberg.org/2009/agents/25406
+creator:
+  author:
+    agent_name: Doorn, M. C. van
+    gutenberg_agent_id: '56699'
+    url: http://www.gutenberg.org/2009/agents/56699
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72481'
+language: nl
+pgterms:marc905: 20201214012238vandoorn
+pgterms:marc906: '1907'
+pgterms:marc907: NL
+production_note: R.G.P.M. van Giesen
+publication_note: '  $aHaarlem :$bVincent Loosjes, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Eduard Kerner
+url: http://www.gutenberg.org/ebooks/72481
