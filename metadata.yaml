@@ -11,12 +11,17 @@ contributor:
     deathdate: 1972
     gutenberg_agent_id: '25406'
     url: http://www.gutenberg.org/2009/agents/25406
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doorn, M. C. van
     gutenberg_agent_id: '56699'
     url: http://www.gutenberg.org/2009/agents/56699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72481#Eduard-Kerner
 gutenberg_issued: '2023-12-22'
 gutenberg_type: Text
 identifiers:
